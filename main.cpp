@@ -32,5 +32,7 @@ int main()
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
 
+    std::cout << "Dora kiiratasa" << std::endl;
+
     return 0;
 }
